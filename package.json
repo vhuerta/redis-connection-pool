@@ -1,0 +1,16 @@
+{
+  "name": "redis-connection-pool",
+  "version": "0.0.1",
+  "description": "NodeJS Redis Connection Pool",
+  "main": "index.js",
+  "repository": {
+    "url": "https://vhuerta@github.com/vhuerta/redis-connection-pool.git",
+    "type": "git"
+  },
+  "author": "Victor Rafael Huerta <vhuertahnz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "generic-pool": "^2.4.2",
+    "redis": "^2.6.2"
+  }
+}
